@@ -4,7 +4,7 @@ A basic structure for Python Flask, anyone can quick start with.
 ## Setup Guide
 
 1. `sudo pip install virtualenv`
-2. `virtualenv venv'
+2. `virtualenv venv`
 3. `source venv/bin/activate`
 4. `python app.py`
 
